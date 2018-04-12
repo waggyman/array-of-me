@@ -1,0 +1,11 @@
+subjects = [
+    'I', 'You', 'They', 'We', 'He', 'She', 'It'
+]
+
+verbs = [
+    'eat', 'drink', 'call', 'burn', 'cook'
+]
+
+objects = [
+    'books', 'paper', 'bread', 'cheese', 'chocolate' 
+]

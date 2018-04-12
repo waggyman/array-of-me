@@ -1,0 +1,10 @@
+template:
+colors + animals + verbs + "the" + objects + "at" + place
+
+adjective + animals + verbs + "the" + colors + objects + "at" + place
+
+colors + animals + "at" + adjective + place
+
+colors + animals + "at" + place
+
+"I saw" + colors + animals + "while" + verbs + "ing"
